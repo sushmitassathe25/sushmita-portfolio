@@ -6,11 +6,11 @@ Location: Pune, India
 LinkedIn: https://www.linkedin.com/in/sushmita-s-sathe/
 
 Summary:
-Innovative team player with a passion for continuous learning and solid background in Object-Oriented programming. 8+ years of experience building and maintaining cloud-based engineering software, UI components and scalable application systems. Strong background in C++, C, Microsoft Azure, UI and full SDLC delivery.
+Results-driven Software Engineer with 8+ years of experience designing and deploying scalable cloud-based engineering solutions. Proven expertise in full-stack development, cloud infrastructure (Azure), and cross-functional collaboration. Passionate about optimizing performance and mentoring engineering teams. Azure certified professional
 
 Work Experience:
 - Software Engineer II, Bentley Systems (10/2021 - Present), Pune
-  Responsibilities: development of products/services for engineering software; performance and quality improvements; refactored legacy code; mentored interns.
+  Responsibilities: development and deployment of products/services for engineering software; performance and quality improvements; refactored legacy code; mentored interns.
 
 - Software Engineer I, Bentley Systems (09/2019 - 10/2021), Pune
   Responsibilities: full SDLC contributions, feature development, UI work, performance improvements.
@@ -25,7 +25,10 @@ Certifications:
 - Microsoft Azure Security, Compliance, and Identity Fundamentals (SC-900)
 
 Skills:
-C, C++, .Net, Docker, Azure DevOps, JavaScript, TypeScript, Node.js, SQL Server, React, Git
+- Backend Development: C, C++, .NET, Node.js, SQL Server
+- Frontend Development: JavaScript, TypeScript, React
+- Cloud & DevOps: Azure, DevOps, Docker
+- Tools & Methodologies: Git, Object-Oriented Design, SDLC, Agile
 
 Education:
 - PG-DAC, C-DAC / Sunbeam Institute of Information & Technology (02/2017 - 08/2017)
